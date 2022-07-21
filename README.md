@@ -59,6 +59,7 @@ _Clients for interacting with SpiceDB_
 _Online forums for discussing SpiceDB and meeting other users_
 
 - [SpiceDB Discord](https://authzed.com/discord) - Discord community for SpiceDB
+- [Authzed Linen](https://linen.authzed.com) - Searchable archive for the SpiceDB Discord
 - [StackOverflow](https://stackoverflow.com/questions/tagged/spicedb) - StackOverflow questions tagged with SpiceDB
 
 ## Examples
