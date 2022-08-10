@@ -67,6 +67,7 @@ _Online forums for discussing SpiceDB and meeting other users_
 _Example usage of SpiceDB and the tools in its ecosystem_
 
 - [authzed/examples](https://github.com/authzed/examples) - Official examples repository
+- [SpiceDB Helm Chart](https://github.com/jonwhitty/helm-charts/tree/master/charts/spicedb) - Helm Chart for an example 3-node deployment
 
 ## Integrations
 
