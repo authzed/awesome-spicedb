@@ -52,6 +52,8 @@ _Clients for interacting with SpiceDB_
 - [authzed-ex](https://github.com/goodhamgupta/authzed_ex) - SpiceDB client for Elixir
 - [authzed-rs](https://github.com/BitskiCo/authzed-rs) - SpiceDB client library for Rust by @BitskiCo
 - [spicedb-client-rust](https://github.com/StructionSite/spicedb-client-rust) - SpiceDB client library for Rust by @StructionSite
+- [spicedb-dotnet (C#)](https://github.com/jkulubya/authzed-dotnet) - SpiceDB client library for .NET languages by @jkulubya
+- [spicedb-dotnet (F#)](https://github.com/amcguier/authzed-dotnet) - SpiceDB client library for .NET languages by @amcguier
 
 
 ## Communities
