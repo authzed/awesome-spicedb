@@ -75,7 +75,7 @@ _Example usage of SpiceDB and the tools in its ecosystem_
 
 _Projects that integrate with SpiceDB_
 
-- [spiced-operator](https://github.com/authzed/spicedb-operator) - Kubernetes Operator for running SpiceDB
+- [spicedb-operator](https://github.com/authzed/spicedb-operator) - Kubernetes Operator for running SpiceDB
 - [connector-postgres](https://github.com/authzed/connector-postgresql) - Experimental synchronization between PostgreSQL and SpiceDB
 - [prom-authzed-proxy](https://github.com/authzed/prom-authzed-proxy) - Prometheus proxy that performs SpiceDB permission checks based on labels
 
