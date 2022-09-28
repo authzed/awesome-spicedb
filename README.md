@@ -79,6 +79,7 @@ _Projects that integrate with SpiceDB_
 - [spicedb-operator](https://github.com/authzed/spicedb-operator) - Kubernetes Operator for running SpiceDB
 - [connector-postgres](https://github.com/authzed/connector-postgresql) - Experimental synchronization between PostgreSQL and SpiceDB
 - [prom-authzed-proxy](https://github.com/authzed/prom-authzed-proxy) - Prometheus proxy that performs SpiceDB permission checks based on labels
+- [vscode-spicedb](https://github.com/nhedger/vscode-spicedb) - Third-party VSCode extension
 
 ## Services
 
