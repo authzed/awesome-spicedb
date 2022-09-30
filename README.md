@@ -49,12 +49,13 @@ _Clients for interacting with SpiceDB_
 
 ### Third-party Libraries
 
-- [authzed-ex](https://github.com/goodhamgupta/authzed_ex) - SpiceDB client for Elixir
-- [authzed-rs](https://github.com/BitskiCo/authzed-rs) - SpiceDB client library for Rust by @BitskiCo
+- [authzed-ex](https://github.com/goodhamgupta/authzed_ex) - SpiceDB gRPC client for Elixir
+- [authzed-rs](https://github.com/BitskiCo/authzed-rs) - SpiceDB gRPC client library for Rust by @BitskiCo
+- [chiphpotle-rest](https://github.com/alsbury/chiphpotle-rest) - SpiceDB HTTP client library for PHP
 - [quarkus-authzed-client](https://github.com/iocanel/quarkus-authzed-client) - SpiceDB client integration for Quarkus
-- [spicedb-client-rust](https://github.com/StructionSite/spicedb-client-rust) - SpiceDB client library for Rust by @StructionSite
-- [spicedb-dotnet (C#)](https://github.com/jkulubya/authzed-dotnet) - SpiceDB client library for .NET languages by @jkulubya
-- [spicedb-dotnet (F#)](https://github.com/amcguier/authzed-dotnet) - SpiceDB client library for .NET languages by @amcguier
+- [spicedb-client-rust](https://github.com/StructionSite/spicedb-client-rust) - SpiceDB gRPC client library for Rust by @StructionSite
+- [spicedb-dotnet (C#)](https://github.com/jkulubya/authzed-dotnet) - SpiceDB gRPC client library for .NET languages by @jkulubya
+- [spicedb-dotnet (F#)](https://github.com/amcguier/authzed-dotnet) - SpiceDB gRPC client library for .NET languages by @amcguier
 
 
 ## Communities
