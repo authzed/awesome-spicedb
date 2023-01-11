@@ -51,7 +51,8 @@ _Clients for interacting with SpiceDB_
 
 - [authzed-ex](https://github.com/goodhamgupta/authzed_ex) - SpiceDB gRPC client for Elixir
 - [authzed-rs](https://github.com/BitskiCo/authzed-rs) - SpiceDB gRPC client library for Rust by @BitskiCo
-- [chiphpotle-rest](https://github.com/alsbury/chiphpotle-rest) - SpiceDB HTTP client library for PHP
+- [chiphpotle-rest](https://github.com/alsbury/chiphpotle-rest) - SpiceDB HTTP client library for PHP by @alsbury
+- [spicedb-php](https://github.com/linkorb/spicedb-php) - SpiceDB HTTP client library for PHP by @linkorb
 - [quarkus-authzed-client](https://github.com/iocanel/quarkus-authzed-client) - SpiceDB client integration for Quarkus
 - [spicedb-client-rust](https://github.com/StructionSite/spicedb-client-rust) - SpiceDB gRPC client library for Rust by @StructionSite
 - [spicedb-dotnet (C#)](https://github.com/jkulubya/authzed-dotnet) - SpiceDB gRPC client library for .NET languages by @jkulubya
