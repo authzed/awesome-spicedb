@@ -41,21 +41,22 @@ _Clients for interacting with SpiceDB_
 
 ### Official Libraries
 
-- [authzed-go](https://github.com/authzed/authzed-go) - Official SpiceDB client library for Go
-- [authzed-java](https://github.com/authzed/authzed-java) - Official SpiceDB client library for Java
-- [authzed-node](https://github.com/authzed/authzed-node) - Official SpiceDB client library for NodeJS
-- [authzed-py](https://github.com/authzed/authzed-py) - Official SpiceDB client library for Python
-- [authzed-rb](https://github.com/authzed/authzed-rb) - Official SpiceDB client library for Ruby
+- Go - [authzed-go](https://github.com/authzed/authzed-go) - Official SpiceDB client library for Go
+- Java - [authzed-java](https://github.com/authzed/authzed-java) - Official SpiceDB client library for Java
+- JavaScript - [authzed-node](https://github.com/authzed/authzed-node) - Official SpiceDB client library for NodeJS
+- Python - [authzed-py](https://github.com/authzed/authzed-py) - Official SpiceDB client library for Python
+- Ruby - [authzed-rb](https://github.com/authzed/authzed-rb) - Official SpiceDB client library for Ruby
 
 ### Third-party Libraries
 
-- [authzed-ex](https://github.com/goodhamgupta/authzed_ex) - SpiceDB gRPC client for Elixir
-- [authzed-rs](https://github.com/BitskiCo/authzed-rs) - SpiceDB gRPC client library for Rust by @BitskiCo
-- [chiphpotle-rest](https://github.com/alsbury/chiphpotle-rest) - SpiceDB HTTP client library for PHP
-- [quarkus-authzed-client](https://github.com/iocanel/quarkus-authzed-client) - SpiceDB client integration for Quarkus
-- [spicedb-client-rust](https://github.com/StructionSite/spicedb-client-rust) - SpiceDB gRPC client library for Rust by @StructionSite
-- [spicedb-dotnet (C#)](https://github.com/jkulubya/authzed-dotnet) - SpiceDB gRPC client library for .NET languages by @jkulubya
-- [spicedb-dotnet (F#)](https://github.com/amcguier/authzed-dotnet) - SpiceDB gRPC client library for .NET languages by @amcguier
+- .NET (C#) - [SpiceDb](https://github.com/JalexSocial/SpiceDb) - SpiceDB gRPC client library for .NET languages by @JalexSocial
+- .NET (C#) - [authzed-dotnet](https://github.com/jkulubya/authzed-dotnet) - SpiceDB gRPC client library for .NET languages by @jkulubya, last updated: 2021
+- .NET (F#) - [authzed-dotnet](https://github.com/amcguier/authzed-dotnet) - SpiceDB gRPC client library for .NET languages by @amcguier
+- Exilir - [authzed-ex](https://github.com/goodhamgupta/authzed_ex) - SpiceDB gRPC client for Elixir
+- Java (Quarkus) - [quarkus-authzed-client](https://github.com/iocanel/quarkus-authzed-client) - SpiceDB client integration for Quarkus
+- PHP - [chiphpotle-rest](https://github.com/alsbury/chiphpotle-rest) - SpiceDB HTTP client library for PHP
+- Rust - [authzed-rs](https://github.com/BitskiCo/authzed-rs) - SpiceDB gRPC client library for Rust by @BitskiCo
+- Rust - [spicedb-client-rust](https://github.com/StructionSite/spicedb-client-rust) - SpiceDB gRPC client library for Rust by @StructionSite
 
 
 ## Communities
@@ -65,6 +66,7 @@ _Online forums for discussing SpiceDB and meeting other users_
 - [SpiceDB Discord](https://authzed.com/discord) - Discord community for SpiceDB
 - [Authzed Linen](https://linen.authzed.com) - Searchable archive for the SpiceDB Discord
 - [StackOverflow](https://stackoverflow.com/questions/tagged/spicedb) - StackOverflow questions tagged with SpiceDB
+- [Twitter](https://twitter.com/authzed) - Official Authzed Twitter account
 
 ## Examples
 
