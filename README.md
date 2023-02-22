@@ -26,6 +26,8 @@ Looking to contribute? See [CONTRIBUTING.md].
   - [Communities](#communities)
   - [Examples](#examples)
   - [Integrations](#integrations)
+    - [Official Integrations](#official-integrations)
+    - [Third-party Integrations](#third-party-integrations)
   - [Services](#services)
   - [Testing](#testing)
 
@@ -50,19 +52,19 @@ _Clients for interacting with SpiceDB_
 ### Third-party Libraries
 
 - .NET
-  - [authzed-dotnet](https://github.com/jkulubya/authzed-dotnet) (2021) - gRPC client library in C# by @jkulubya
-  - [authzed-dotnet](https://github.com/amcguier/authzed-dotnet) - gRPC client library in F# by @amcguier
-  - [SpiceDb](https://github.com/JalexSocial/SpiceDb) - gRPC client library in C# by @JalexSocial
+  - [jkulubya/authzed-dotnet](https://github.com/jkulubya/authzed-dotnet) (2021) - gRPC client library in C#
+  - [amcguier/authzed-dotnet](https://github.com/amcguier/authzed-dotnet) - gRPC client library in F#
+  - [jalexsocial/spicedb](https://github.com/JalexSocial/SpiceDb) - gRPC client library in C#
 - BEAM
-  - [authzed-ex](https://github.com/goodhamgupta/authzed_ex) - gRPC client library in Elixir by @goodhamgupta
+  - [goodhamgupta/authzed-ex](https://github.com/goodhamgupta/authzed_ex) - gRPC client library in Elixir
 - JVM
-  - [quarkus-authzed-client](https://github.com/iocanel/quarkus-authzed-client) - gRPC client integration for Quarkus by @iocanel
+  - [iocanel/quarkus-authzed-client](https://github.com/iocanel/quarkus-authzed-client) - gRPC client integration for Quarkus
 - PHP
-  - [chiphpotle-rest](https://github.com/alsbury/chiphpotle-rest) - HTTP client library in PHP by @alsbury
-  - [spicedb-php](https://github.com/linkorb/spicedb-php) - HTTP client library in PHP by @linkorb
+  - [alsbury/chiphpotle-rest](https://github.com/alsbury/chiphpotle-rest) - HTTP client library in PHP
+  - [linkorb/spicedb-php](https://github.com/linkorb/spicedb-php) - HTTP client library in PHP
 - Rust
-  - [authzed-rs](https://github.com/BitskiCo/authzed-rs) - gRPC client library in Rust by @BitskiCo
-  - [spicedb-client-rust](https://github.com/StructionSite/spicedb-client-rust) - gRPC client library in Rust by @StructionSite
+  - [bitskico/authzed-rs](https://github.com/BitskiCo/authzed-rs) - gRPC client library in Rust
+  - [structionsite/spicedb-client-rust](https://github.com/StructionSite/spicedb-client-rust) - gRPC client library in Rust
 
 ## Communities
 
@@ -84,19 +86,25 @@ _Example usage of SpiceDB and the tools in its ecosystem_
 
 _Projects that integrate with SpiceDB_
 
-- [spicedb-operator](https://github.com/authzed/spicedb-operator) - Official Kubernetes Operator for running SpiceDB
-- [connector-postgres](https://github.com/authzed/connector-postgresql) - Experimental synchronization between PostgreSQL and SpiceDB
-- [prom-authzed-proxy](https://github.com/authzed/prom-authzed-proxy) - Prometheus proxy that performs SpiceDB permission checks based on labels
-- [vscode-spicedb](https://github.com/nhedger/vscode-spicedb) - Third-party VSCode extension
-- [custom-opa-spicedb](https://github.com/thomasdarimont/custom-opa-spicedb) - Third-party Open Policy Agent plugin to query SpiceDB
-- [Shield](https://github.com/odpf/shield) - Cloud Native RBAC user management system, identity & access proxy, and authorization server for API endpoints
+### Official Integrations
+
+- [authzed/spicedb-operator](https://github.com/authzed/spicedb-operator) - Official Kubernetes Operator for running SpiceDB
+
+### Third-party Integrations
+
+- [authzed/connector-postgres](https://github.com/authzed/connector-postgresql) - Experimental synchronization between PostgreSQL and SpiceDB
+- [authzed/prom-authzed-proxy](https://github.com/authzed/prom-authzed-proxy) - Prometheus proxy that performs SpiceDB permission checks based on labels
+- [nhedger/vscode-spicedb](https://github.com/nhedger/vscode-spicedb) - Third-party VSCode extension
+- [thomasdarimont/custom-opa-spicedb](https://github.com/thomasdarimont/custom-opa-spicedb) - Third-party Open Policy Agent plugin to query SpiceDB
+- [iocanel/quarkus-authzed-client](https://github.com/iocanel/quarkus-authzed-client) - gRPC client integration for Quarkus
+- [odpf/shield](https://github.com/odpf/shield) - Cloud Native RBAC user management system, identity & access proxy, and authorization server for API endpoints
 
 ## Services
 
-_Managed services that offer SpiceDB_
+_Managed services that operate SpiceDB for you_
 
-- [Authzed Dedicated](https://authzed.com/pricing) - Dedicated SpiceDB clusters in your cloud region
-- [Authzed.com](https://app.authzed.com) - Serverless SpiceDB charged by the request
+- [SpiceDB Dedicated](https://authzed.com/pricing) - Private, isolated clusters operated by the experts at Authzed
+- [SpiceDB Serverless](https://app.authzed.com) - Self-service shared clusters operated by Authzed
 
 ## Testing
 
