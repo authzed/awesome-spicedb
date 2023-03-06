@@ -94,6 +94,7 @@ _Projects that integrate with SpiceDB_
 
 - [authzed/connector-postgres](https://github.com/authzed/connector-postgresql) - Experimental synchronization between PostgreSQL and SpiceDB
 - [authzed/prom-authzed-proxy](https://github.com/authzed/prom-authzed-proxy) - Prometheus proxy that performs SpiceDB permission checks based on labels
+- [mleonidas/tree-sitter-authzed](https://github.com/mleonidas/tree-sitter-authzed) - Neovim tree-sitter grammar and syntax for SpiceDB schemas
 - [nhedger/vscode-spicedb](https://github.com/nhedger/vscode-spicedb) - Third-party VSCode extension
 - [thomasdarimont/custom-opa-spicedb](https://github.com/thomasdarimont/custom-opa-spicedb) - Third-party Open Policy Agent plugin to query SpiceDB
 - [iocanel/quarkus-authzed-client](https://github.com/iocanel/quarkus-authzed-client) - gRPC client integration for Quarkus
