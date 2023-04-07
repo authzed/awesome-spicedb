@@ -58,7 +58,7 @@ _Clients for interacting with SpiceDB_
 - BEAM
   - [goodhamgupta/authzed-ex](https://github.com/goodhamgupta/authzed_ex) - gRPC client library in Elixir
 - JVM
-  - [iocanel/quarkus-authzed-client](https://github.com/iocanel/quarkus-authzed-client) - gRPC client integration for Quarkus
+  - [quarkiverse/quarkus-authzed-client](https://github.com/quarkiverse/quarkus-authzed-client) - gRPC client integration for Quarkus
 - PHP
   - [alsbury/chiphpotle-rest](https://github.com/alsbury/chiphpotle-rest) - HTTP client library in PHP
   - [linkorb/spicedb-php](https://github.com/linkorb/spicedb-php) - HTTP client library in PHP
@@ -97,7 +97,7 @@ _Projects that integrate with SpiceDB_
 - [mleonidas/tree-sitter-authzed](https://github.com/mleonidas/tree-sitter-authzed) - Neovim tree-sitter grammar and syntax for SpiceDB schemas
 - [nhedger/vscode-spicedb](https://github.com/nhedger/vscode-spicedb) - Third-party VSCode extension
 - [thomasdarimont/custom-opa-spicedb](https://github.com/thomasdarimont/custom-opa-spicedb) - Third-party Open Policy Agent plugin to query SpiceDB
-- [iocanel/quarkus-authzed-client](https://github.com/iocanel/quarkus-authzed-client) - gRPC client integration for Quarkus
+- [quarkiverse/quarkus-authzed-client](https://quarkus.io/extensions/io.quarkiverse.authzed/quarkus-authzed-client) - gRPC client integration for Quarkus
 - [odpf/shield](https://github.com/odpf/shield) - Cloud Native RBAC user management system, identity & access proxy, and authorization server for API endpoints
 
 ## Services
