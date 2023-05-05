@@ -99,6 +99,7 @@ _Projects that integrate with SpiceDB_
 - [thomasdarimont/custom-opa-spicedb](https://github.com/thomasdarimont/custom-opa-spicedb) - Third-party Open Policy Agent plugin to query SpiceDB
 - [quarkiverse/quarkus-authzed-client](https://quarkus.io/extensions/io.quarkiverse.authzed/quarkus-authzed-client) - gRPC client integration for Quarkus
 - [odpf/shield](https://github.com/odpf/shield) - Cloud Native RBAC user management system, identity & access proxy, and authorization server for API endpoints
+- [kuadrant/authorino](https://github.com/Kuadrant/authorino/blob/main/docs/features.md#authzedspicedb-authorizationauthzed) - Kubernetes-native authorization service for tailor-made Zero Trust API security. Supports many types of authorization policies, including SpiceDB permission checks.
 
 ## Services
 
