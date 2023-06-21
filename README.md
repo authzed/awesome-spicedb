@@ -40,6 +40,7 @@ _Clients for interacting with SpiceDB_
 - Thumper (proprietary) - Official load generation tool for SpiceDB
 - [Playground](https://play.authzed.com) - Official SpiceDB schema development environment
 - [zed](https://github.com/authzed/zed) - Official command-line tool for managing SpiceDB
+- [SpiceDB Operator](https://github.com/authzed/spicedb-operator) - Official Kubernetes Operator for running SpiceDB
 
 ### Official Libraries
 
@@ -88,12 +89,12 @@ _Projects that integrate with SpiceDB_
 
 ### Official Integrations
 
-- [authzed/spicedb-operator](https://github.com/authzed/spicedb-operator) - Official Kubernetes Operator for running SpiceDB
+- [authzed/connector-postgres](https://github.com/authzed/connector-postgresql) - Deprecated synchronization between PostgreSQL and SpiceDB
+- [authzed/prom-authzed-proxy](https://github.com/authzed/prom-authzed-proxy) - Prometheus proxy that performs SpiceDB permission checks based on labels
 
 ### Third-party Integrations
 
-- [authzed/connector-postgres](https://github.com/authzed/connector-postgresql) - Experimental synchronization between PostgreSQL and SpiceDB
-- [authzed/prom-authzed-proxy](https://github.com/authzed/prom-authzed-proxy) - Prometheus proxy that performs SpiceDB permission checks based on labels
+- [bushelpowered/spicedb-operator-chart](https://github.com/bushelpowered/spicedb-operator-chart) - Helm chart to install the SpiceDB Operator
 - [mleonidas/tree-sitter-authzed](https://github.com/mleonidas/tree-sitter-authzed) - Neovim tree-sitter grammar and syntax for SpiceDB schemas
 - [nhedger/vscode-spicedb](https://github.com/nhedger/vscode-spicedb) - Third-party VSCode extension
 - [thomasdarimont/custom-opa-spicedb](https://github.com/thomasdarimont/custom-opa-spicedb) - Third-party Open Policy Agent plugin to query SpiceDB
