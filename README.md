@@ -95,6 +95,8 @@ _Projects that integrate with SpiceDB_
 ### Third-party Integrations
 
 - [bushelpowered/spicedb-operator-chart](https://github.com/bushelpowered/spicedb-operator-chart) - Helm chart to install the SpiceDB Operator
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - GitPod's support for fine-grained authorization leverages SpiceDB
+- [infratographer/permissions-api](https://github.com/infratographer/permissions-api) - The default authorization strategy for Infratographer leverages SpiceDB
 - [mleonidas/tree-sitter-authzed](https://github.com/mleonidas/tree-sitter-authzed) - Neovim tree-sitter grammar and syntax for SpiceDB schemas
 - [nhedger/vscode-spicedb](https://github.com/nhedger/vscode-spicedb) - Third-party VSCode extension
 - [thomasdarimont/custom-opa-spicedb](https://github.com/thomasdarimont/custom-opa-spicedb) - Third-party Open Policy Agent plugin to query SpiceDB
