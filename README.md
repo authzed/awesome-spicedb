@@ -18,6 +18,7 @@ Looking to contribute? See [CONTRIBUTING.md].
 ## Contents
 
 - [Awesome SpiceDB](#awesome-spicedb)
+  - [Blog Posts](#blog-posts)
   - [Contents](#contents)
   - [Clients](#clients)
     - [Official Tools](#official-tools)
@@ -30,6 +31,15 @@ Looking to contribute? See [CONTRIBUTING.md].
     - [Third-party Integrations](#third-party-integrations)
   - [Services](#services)
   - [Testing](#testing)
+
+## Blog Posts
+
+- [Authzed's Official Blog](https://authzed.com/blog)
+- [ABAC on SpiceDB: Enabling Netflix’s Complex Identity Types](https://netflixtechblog.com/abac-on-spicedb-enabling-netflixs-complex-identity-types-c118f374fa89)
+- Abhishek Koserwal's SpiceDB Setup Guide: [Part 1](https://akoserwal.medium.com/a-comprehensive-guide-to-setting-up-spicedb-with-postgresql-and-a-monitoring-stack-b250f31d7775), [Part 2](https://akoserwal.medium.com/part-2-a-comprehensive-guide-to-setting-up-spicedb-operator-with-postgresql-and-a-monitoring-stack-3b3f92e20d77)
+- [SpiceDBで認可制御するLambda Authorizerを作ってみた](https://zenn.dev/manaty226/articles/96b6b693c6621c)
+- [[源码]spicedb: 源码阅读之第一篇(热点缓存)](https://kylinlingh.github.io/2023/06/28/%E6%BA%90%E7%A0%81-spicedb-%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E4%B9%8B%E7%AC%AC%E4%B8%80%E7%AF%87-%E7%83%AD%E7%82%B9%E7%BC%93%E5%AD%98/)
+- [[源码]spicedb: 源码阅读之第二篇(k8s 部署和运行)](https://kylinlingh.github.io/2023/07/19/%E6%BA%90%E7%A0%81-spicedb-%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E4%B9%8B%E7%AC%AC%E4%BA%8C%E7%AF%87-k8s-%E9%83%A8%E7%BD%B2/)
 
 ## Clients
 
