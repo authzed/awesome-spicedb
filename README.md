@@ -107,6 +107,7 @@ _Projects that integrate with SpiceDB_
 
 - [guicassolato/authorino-spicedb](https://github.com/guicassolato/authorino-spicedb) - Implementation of [Envoy external authz](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/ext_authz_filter) that can be driven by SpiceDB
 - [bushelpowered/spicedb-operator-chart](https://github.com/bushelpowered/spicedb-operator-chart) - Helm chart to install the SpiceDB Operator
+- [dguhr/keycloak-spicedb-eventlistener](https://github.com/DGuhr/keycloak-spicedb-eventlistener) - Syncs changes to [Keycloak](https://www.keycloak.org) users and groups to SpiceDB
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - GitPod's support for fine-grained authorization leverages SpiceDB
 - [infratographer/permissions-api](https://github.com/infratographer/permissions-api) - The default authorization strategy for Infratographer leverages SpiceDB
 - [mleonidas/tree-sitter-authzed](https://github.com/mleonidas/tree-sitter-authzed) - Neovim tree-sitter grammar and syntax for SpiceDB schemas
