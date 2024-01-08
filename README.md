@@ -71,6 +71,7 @@ _Clients for interacting with SpiceDB_
   - [goodhamgupta/authzed-ex](https://github.com/goodhamgupta/authzed_ex) - gRPC client library in Elixir
 - JavaScript
   - [quizizz/spicedb-wrapper](https://github.com/quizizz/spicedb-wrapper) - Lightweight client wrapper of [authzed-node](https://github.com/authzed/authzed-node)
+  - [northone-inc/local-spicedb](https://github.com/northone-inc/local-spicedb) - Node library for running SpiceDB ephermally for testing
 - JVM
   - [quarkiverse/quarkus-authzed-client](https://github.com/quarkiverse/quarkus-authzed-client) - gRPC client integration for Quarkus
 - PHP
