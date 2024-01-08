@@ -69,11 +69,14 @@ _Clients for interacting with SpiceDB_
   - [jalexsocial/spicedb](https://github.com/JalexSocial/SpiceDb) - gRPC client library in C#
 - BEAM
   - [goodhamgupta/authzed-ex](https://github.com/goodhamgupta/authzed_ex) - gRPC client library in Elixir
+- JavaScript
+  - [quizizz/spicedb-wrapper](https://github.com/quizizz/spicedb-wrapper) - Lightweight client wrapper of [authzed-node](https://github.com/authzed/authzed-node)
 - JVM
   - [quarkiverse/quarkus-authzed-client](https://github.com/quarkiverse/quarkus-authzed-client) - gRPC client integration for Quarkus
 - PHP
   - [alsbury/chiphpotle-rest](https://github.com/alsbury/chiphpotle-rest) - HTTP client library in PHP
   - [linkorb/spicedb-php](https://github.com/linkorb/spicedb-php) - HTTP client library in PHP
+  - [linkorb/spicedb-bundle](https://github.com/linkorb/spicedb-bundle) - SpiceDB client Symfony Bundle
 - Rust
   - [bitskico/authzed-rs](https://github.com/BitskiCo/authzed-rs) - gRPC client library in Rust
   - [structionsite/spicedb-client-rust](https://github.com/StructionSite/spicedb-client-rust) - gRPC client library in Rust
@@ -115,7 +118,6 @@ _Projects that integrate with SpiceDB_
 - [chiperific/vscode_authzed_syntax](https://github.com/chiperific/vscode_authzed_syntax) - Third-party VSCode syntax highlighting
 - [thomasdarimont/custom-opa-spicedb](https://github.com/thomasdarimont/custom-opa-spicedb) - Third-party Open Policy Agent plugin to query SpiceDB
 - [quarkiverse/quarkus-authzed-client](https://quarkus.io/extensions/io.quarkiverse.authzed/quarkus-authzed-client) - gRPC client integration for Quarkus
-- [quizizz/spicedb-wrapper](https://github.com/quizizz/spicedb-wrapper) - Lightweight client wrapper of [authzed-node](https://github.com/authzed/authzed-node)
 - [odpf/shield](https://github.com/odpf/shield) - Cloud-native RBAC user management system, identity & access proxy, and authorization server for API endpoints
 - [raystack/frontier](https://github.com/raystack/frontier) - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
 - [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) - Container build toolchain that packages SpiceDB
