@@ -21,10 +21,12 @@ Looking to contribute? See [CONTRIBUTING.md].
   - [Blog Posts](#blog-posts)
   - [Contents](#contents)
   - [Clients](#clients)
-    - [Official Tools](#official-tools)
     - [Official Libraries](#official-libraries)
     - [Third-party Libraries](#third-party-libraries)
   - [Communities](#communities)
+  - [Developer Tools](#developer-tools)
+    - [Official Tools](#official-tools)
+    - [Third-party Tools](#third-party-tools)
   - [Examples](#examples)
   - [Integrations](#integrations)
     - [Official Integrations](#official-integrations)
@@ -46,13 +48,6 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 _Clients for interacting with SpiceDB_
 
-### Official Tools
-
-- Thumper (proprietary) - Official load generation tool for SpiceDB
-- [Playground](https://play.authzed.com) - Official SpiceDB schema development environment
-- [zed](https://github.com/authzed/zed) - Official command-line tool for managing SpiceDB
-- [SpiceDB Operator](https://github.com/authzed/spicedb-operator) - Official Kubernetes Operator for running SpiceDB
-
 ### Official Libraries
 
 - [authzed-go](https://github.com/authzed/authzed-go) - Official client library for Go
@@ -71,7 +66,6 @@ _Clients for interacting with SpiceDB_
   - [goodhamgupta/authzed-ex](https://github.com/goodhamgupta/authzed_ex) - gRPC client library in Elixir
 - JavaScript
   - [quizizz/spicedb-wrapper](https://github.com/quizizz/spicedb-wrapper) - Lightweight client wrapper of [authzed-node](https://github.com/authzed/authzed-node)
-  - [northone-inc/local-spicedb](https://github.com/northone-inc/local-spicedb) - Node library for running SpiceDB ephermally for testing
 - JVM
   - [quarkiverse/quarkus-authzed-client](https://github.com/quarkiverse/quarkus-authzed-client) - gRPC client integration for Quarkus
 - PHP
@@ -90,6 +84,26 @@ _Online forums for discussing SpiceDB and meeting other users_
 - [Authzed Linen](https://linen.authzed.com) - Searchable archive for the SpiceDB Discord
 - [StackOverflow](https://stackoverflow.com/questions/tagged/spicedb) - StackOverflow questions tagged with SpiceDB
 - [Twitter](https://twitter.com/authzed) - Official Authzed Twitter account
+
+## Developer Tools
+
+_Tools that help enhance the experience of using SpiceDB_
+
+### Official Tools
+
+- [Playground](https://play.authzed.com) - Official SpiceDB schema development environment
+- [SpiceDB Operator](https://github.com/authzed/spicedb-operator) - Official Kubernetes Operator for running SpiceDB
+- Thumper (proprietary) - Official load generation tool for SpiceDB
+- [zed](https://github.com/authzed/zed) - Official command-line tool for managing SpiceDB
+
+### Third-party Tools
+
+- [bushelpowered/spicedb-operator-chart](https://github.com/bushelpowered/spicedb-operator-chart) - Helm chart to install the SpiceDB Operator
+- [mleonidas/tree-sitter-authzed](https://github.com/mleonidas/tree-sitter-authzed) - Neovim tree-sitter grammar and syntax for SpiceDB schemas
+- [nhedger/vscode-spicedb](https://github.com/nhedger/vscode-spicedb) - Third-party VSCode extension
+- [chiperific/vscode_authzed_syntax](https://github.com/chiperific/vscode_authzed_syntax) - Third-party VSCode syntax highlighting
+- [dguhr/keycloak-spicedb-eventlistener](https://github.com/DGuhr/keycloak-spicedb-eventlistener) - Syncs changes to [Keycloak](https://www.keycloak.org) users and groups to SpiceDB
+- [thomasdarimont/custom-opa-spicedb](https://github.com/thomasdarimont/custom-opa-spicedb) - Third-party Open Policy Agent plugin to query SpiceDB
 
 ## Examples
 
@@ -110,15 +124,8 @@ _Projects that integrate with SpiceDB_
 ### Third-party Integrations
 
 - [guicassolato/authorino-spicedb](https://github.com/guicassolato/authorino-spicedb) - Implementation of [Envoy external authz](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/ext_authz_filter) that can be driven by SpiceDB
-- [bushelpowered/spicedb-operator-chart](https://github.com/bushelpowered/spicedb-operator-chart) - Helm chart to install the SpiceDB Operator
-- [dguhr/keycloak-spicedb-eventlistener](https://github.com/DGuhr/keycloak-spicedb-eventlistener) - Syncs changes to [Keycloak](https://www.keycloak.org) users and groups to SpiceDB
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - GitPod's support for fine-grained authorization leverages SpiceDB
 - [infratographer/permissions-api](https://github.com/infratographer/permissions-api) - The default authorization strategy for Infratographer leverages SpiceDB
-- [mleonidas/tree-sitter-authzed](https://github.com/mleonidas/tree-sitter-authzed) - Neovim tree-sitter grammar and syntax for SpiceDB schemas
-- [nhedger/vscode-spicedb](https://github.com/nhedger/vscode-spicedb) - Third-party VSCode extension
-- [chiperific/vscode_authzed_syntax](https://github.com/chiperific/vscode_authzed_syntax) - Third-party VSCode syntax highlighting
-- [thomasdarimont/custom-opa-spicedb](https://github.com/thomasdarimont/custom-opa-spicedb) - Third-party Open Policy Agent plugin to query SpiceDB
-- [quarkiverse/quarkus-authzed-client](https://quarkus.io/extensions/io.quarkiverse.authzed/quarkus-authzed-client) - gRPC client integration for Quarkus
 - [odpf/shield](https://github.com/odpf/shield) - Cloud-native RBAC user management system, identity & access proxy, and authorization server for API endpoints
 - [raystack/frontier](https://github.com/raystack/frontier) - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
 - [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) - Container build toolchain that packages SpiceDB
@@ -136,3 +143,4 @@ _Tools and libraries used to test or validate usage of SpiceDB_
 
 - [authzed/action-spicedb-validate](https://github.com/authzed/action-spicedb-validate) - GitHub Action for validating your SpiceDB schema
 - [authzed/action-spicedb](https://github.com/authzed/action-spicedb) - GitHub Action for integration testing your application with SpiceDB
+- [northone-inc/local-spicedb](https://github.com/northone-inc/local-spicedb) - Node library for running SpiceDB ephermally for testing
