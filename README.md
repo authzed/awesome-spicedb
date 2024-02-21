@@ -143,7 +143,7 @@ _Projects that integrate with SpiceDB_
 - [odpf/shield](https://github.com/odpf/shield) - Cloud-native RBAC user management system, identity & access proxy, and authorization server for API endpoints
 - [raystack/frontier](https://github.com/raystack/frontier) - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
 - [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) - Container build toolchain that packages SpiceDB
-- [koralium/flowtide](https://github.com/koralium/flowtide) - Data streaming engine, can read/write data into SpiceDB and can also denormalize SpiceDB permissions when integrating with other databases/systems.
+- [koralium/flowtide](https://koralium.github.io/flowtide/docs/connectors/spicedb) - Data streaming engine, can read/write data into SpiceDB and can also denormalize SpiceDB permissions when integrating with other databases/systems.
 
 ## Services
 
