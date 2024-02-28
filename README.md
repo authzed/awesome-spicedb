@@ -140,7 +140,6 @@ _Projects that integrate with SpiceDB_
 - [guicassolato/authorino-spicedb](https://github.com/guicassolato/authorino-spicedb) - Implementation of [Envoy external authz](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/ext_authz_filter) that can be driven by SpiceDB
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - GitPod's support for fine-grained authorization leverages SpiceDB
 - [infratographer/permissions-api](https://github.com/infratographer/permissions-api) - The default authorization strategy for Infratographer leverages SpiceDB
-- [odpf/shield](https://github.com/odpf/shield) - Cloud-native RBAC user management system, identity & access proxy, and authorization server for API endpoints
 - [raystack/frontier](https://github.com/raystack/frontier) - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
 - [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) - Container build toolchain that packages SpiceDB
 - [koralium/flowtide](https://koralium.github.io/flowtide/docs/connectors/spicedb) - Data streaming engine, can read/write data into SpiceDB and can also denormalize SpiceDB permissions when integrating with other databases/systems.
