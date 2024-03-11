@@ -57,6 +57,7 @@ _Posts written about SpiceDB usage and development_
 
 - [[源码]spicedb: 源码阅读之第一篇(热点缓存)](https://kylinlingh.github.io/2023/06/28/%E6%BA%90%E7%A0%81-spicedb-%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E4%B9%8B%E7%AC%AC%E4%B8%80%E7%AF%87-%E7%83%AD%E7%82%B9%E7%BC%93%E5%AD%98/)
 - [[源码]spicedb: 源码阅读之第二篇(k8s 部署和运行)](https://kylinlingh.github.io/2023/07/19/%E6%BA%90%E7%A0%81-spicedb-%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E4%B9%8B%E7%AC%AC%E4%BA%8C%E7%AF%87-k8s-%E9%83%A8%E7%BD%B2/)
+- [Chen Tian, SVP TubiTV China, presents SpiceDB](https://zhuanlan.zhihu.com/p/685603356)
 
 ## Clients
 
