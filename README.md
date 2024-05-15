@@ -113,6 +113,7 @@ _Tools that help enhance the experience of using SpiceDB_
 
 ### Third-party Tools
 
+- [spicedb-operator-libsonnet](https://github.com/jsonnet-libs/spicedb-operator-libsonnet) - Jsonnet library for the SpiceDB Operator
 - [bushelpowered/spicedb-operator-chart](https://github.com/bushelpowered/spicedb-operator-chart) - Helm chart to install the SpiceDB Operator
 - [mleonidas/tree-sitter-authzed](https://github.com/mleonidas/tree-sitter-authzed) - Neovim tree-sitter grammar and syntax for SpiceDB schemas
 - [nhedger/vscode-spicedb](https://github.com/nhedger/vscode-spicedb) - Third-party VSCode extension
