@@ -83,6 +83,7 @@ _Clients for interacting with SpiceDB_
   - [quizizz/spicedb-wrapper](https://github.com/quizizz/spicedb-wrapper) - Lightweight client wrapper of [authzed-node](https://github.com/authzed/authzed-node)
 - JVM
   - [quarkiverse/quarkus-authzed-client](https://github.com/quarkiverse/quarkus-authzed-client) - gRPC client integration for Quarkus
+  - [oviva-ag/spicegen](https://github.com/oviva-ag/spicegen) - type-safe client generator from a schema
 - PHP
   - [alsbury/chiphpotle-rest](https://github.com/alsbury/chiphpotle-rest) - HTTP client library in PHP
   - [linkorb/spicedb-php](https://github.com/linkorb/spicedb-php) - HTTP client library in PHP
