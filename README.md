@@ -111,7 +111,7 @@ _Tools that help enhance the experience of using SpiceDB_
 - [Playground](https://play.authzed.com) - Official SpiceDB schema development environment
 - [SpiceDB Operator](https://github.com/authzed/spicedb-operator) - Official Kubernetes Operator for running SpiceDB
 - Thumper (proprietary) - Official load generation tool for SpiceDB
-- [VS Code extension] - Official SpiceDB Visual Studio Code Extension
+- [VS Code extension](https://marketplace.visualstudio.com/items?itemName=authzed.spicedb-vscode) - Official SpiceDB Visual Studio Code Extension
 - [zed](https://github.com/authzed/zed) - Official command-line tool for managing SpiceDB
 
 ### Third-party Tools
