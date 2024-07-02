@@ -47,6 +47,7 @@ _Posts written about SpiceDB usage and development_
 - [ABAC on SpiceDB: Enabling Netflix’s Complex Identity Types](https://netflixtechblog.com/abac-on-spicedb-enabling-netflixs-complex-identity-types-c118f374fa89)
 - Abhishek Koserwal's SpiceDB Setup Guide: [Part 1](https://akoserwal.medium.com/a-comprehensive-guide-to-setting-up-spicedb-with-postgresql-and-a-monitoring-stack-b250f31d7775), [Part 2](https://akoserwal.medium.com/part-2-a-comprehensive-guide-to-setting-up-spicedb-operator-with-postgresql-and-a-monitoring-stack-3b3f92e20d77)
 - [Modeling Google Drive in SpiceDB](https://www.mbilski.com/posts/fine-grained-authorization-made-easy-modeling-google-drive-in-spicedb)
+- [KPMG: Getting Started with SpiceDB in .NET](https://medium.com/kpmg-uk-engineering/getting-started-with-spicedb-in-net-741e353a4d83)
 
 ### 日本語
 
