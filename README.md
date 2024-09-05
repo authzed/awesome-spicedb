@@ -71,6 +71,7 @@ _Clients for interacting with SpiceDB_
 - [authzed-node](https://github.com/authzed/authzed-node) - Official client library for NodeJS in JavaScript/TypeScript
 - [authzed-py](https://github.com/authzed/authzed-py) - Official client library for Python
 - [authzed-rb](https://github.com/authzed/authzed-rb) - Official client library for Ruby
+- [authzed-dotnet](https://github.com/authzed/authzed-dotnet) - Official client library for Dotnet/CSharp
 
 ### Third-party Libraries
 
