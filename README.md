@@ -76,8 +76,6 @@ _Clients for interacting with SpiceDB_
 ### Third-party Libraries
 
 - .NET
-  - [jkulubya/authzed-dotnet](https://github.com/jkulubya/authzed-dotnet) (2021) - gRPC client library in C#
-  - [amcguier/authzed-dotnet](https://github.com/amcguier/authzed-dotnet) - gRPC client library in F#
   - [jalexsocial/spicedb](https://github.com/JalexSocial/SpiceDb) - gRPC client library in C#
 - BEAM
   - [goodhamgupta/authzed-ex](https://github.com/goodhamgupta/authzed_ex) - gRPC client library in Elixir
