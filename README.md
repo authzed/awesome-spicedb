@@ -148,6 +148,7 @@ _Projects that integrate with SpiceDB_
 - [raystack/frontier](https://github.com/raystack/frontier) - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
 - [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) - Container build toolchain that packages SpiceDB
 - [koralium/flowtide](https://koralium.github.io/flowtide/docs/connectors/spicedb) - Data streaming engine, can read/write data into SpiceDB and can also denormalize SpiceDB permissions when integrating with other databases/systems.
+- [Redpanda connector - spicedb_watch](https://docs.redpanda.com/redpanda-connect/components/inputs/spicedb_watch/) - Consumes messages from the Watch API of a SpiceDB instance. This input is useful if you have downstream applications that need to react to real-time changes in data managed by SpiceDB.
 
 ## Services
 
