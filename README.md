@@ -76,6 +76,8 @@ _Clients for interacting with SpiceDB_
 
 ### Third-party Libraries
 
+- Golang
+  - [danhtran94/authzed-codegen](https://github.com/danhtran94/authzed-codegen) - Type-Safe stubs code generator for your AuthZed schemas
 - .NET
   - [jalexsocial/spicedb](https://github.com/JalexSocial/SpiceDb) - gRPC client library in C#
 - BEAM
