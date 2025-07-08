@@ -127,6 +127,7 @@ _Tools that help enhance the experience of using SpiceDB_
 - [dguhr/keycloak-spicedb-eventlistener](https://github.com/DGuhr/keycloak-spicedb-eventlistener) - Syncs changes to [Keycloak](https://www.keycloak.org) users and groups to SpiceDB
 - [thomasdarimont/custom-opa-spicedb](https://github.com/thomasdarimont/custom-opa-spicedb) - Third-party build of Open Policy Agent with a plugin to query SpiceDB
 - [umbrellaassociates/opa-spicedb](https://github.com/umbrellaassociates/opa-spicedb) - Third-party build of Open Policy Agent with a plugin to query SpiceDB
+- [mejaz/spicedb-ui](https://github.com/mejaz/spicedb-ui) - Third-party SpiceDB web interface that allows inspection and management of a running SpiceDB instance
 
 ## Examples
 
