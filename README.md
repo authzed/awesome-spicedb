@@ -63,6 +63,7 @@ _Posts written about SpiceDB usage and development_
 
 ## Clients
 
+_Clients for interacting with SpiceDB_
 
 ### Official Libraries
 
