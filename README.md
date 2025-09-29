@@ -63,7 +63,6 @@ _Posts written about SpiceDB usage and development_
 
 ## Clients
 
-_Clients for interacting with SpiceDB_
 
 ### Official Libraries
 
@@ -85,6 +84,7 @@ _Clients for interacting with SpiceDB_
 - JavaScript/Typescript
   - [quizizz/spicedb-wrapper](https://github.com/quizizz/spicedb-wrapper) - Lightweight client wrapper of [authzed-node](https://github.com/authzed/authzed-node)
   - [SchoolAI/spicedb-zed-schema-parser](https://github.com/SchoolAI/spicedb-zed-schema-parser) - A tool to generate schema-aware typescript types and a type-safe wrapper for [authzed-node](https://github.com/authzed/authzed-node)
+  - [yahiaosama/authz-schema-sync-check](https://github.com/yahiaosama/authz-schema-sync-check) - tool to generate Python and Node type definitions from SpiceDB Schema.
 - JVM
   - [quarkiverse/quarkus-authzed-client](https://github.com/quarkiverse/quarkus-authzed-client) - gRPC client integration for Quarkus
   - [oviva-ag/spicegen](https://github.com/oviva-ag/spicegen) - type-safe client generator from a schema
@@ -92,6 +92,8 @@ _Clients for interacting with SpiceDB_
   - [alsbury/chiphpotle-rest](https://github.com/alsbury/chiphpotle-rest) - HTTP client library in PHP
   - [linkorb/spicedb-php](https://github.com/linkorb/spicedb-php) - HTTP client library in PHP
   - [linkorb/spicedb-bundle](https://github.com/linkorb/spicedb-bundle) - SpiceDB client Symfony Bundle
+- Python
+  - [yahiaosama/authz-schema-sync-check](https://github.com/yahiaosama/authz-schema-sync-check) - tool to generate Python and Node type definitions from SpiceDB Schema.
 - Rust
   - [bitskico/authzed-rs](https://github.com/BitskiCo/authzed-rs) - gRPC client library in Rust
   - [structionsite/spicedb-client-rust](https://github.com/StructionSite/spicedb-client-rust) - gRPC client library in Rust
@@ -160,8 +162,8 @@ _Projects that integrate with SpiceDB_
 
 _Managed services that operate SpiceDB for you_
 
-- [SpiceDB Dedicated](https://authzed.com/pricing) - Private, isolated clusters operated by the experts at Authzed
-- [SpiceDB Serverless](https://app.authzed.com) - Self-service shared clusters operated by Authzed
+- [AuthZed Dedicated](https://authzed.com/pricing) - Private, isolated clusters operated by the experts at Authzed
+- [AuthZed Cloud](https://app.authzed.cloud/) - Self-service clusters operated by Authzed
 
 ## Testing
 
