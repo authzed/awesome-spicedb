@@ -163,8 +163,8 @@ _Projects that integrate with SpiceDB_
 
 _Managed services that operate SpiceDB for you_
 
-- [AuthZed Dedicated](https://authzed.com/pricing) - Private, isolated clusters operated by the experts at Authzed
 - [AuthZed Cloud](https://app.authzed.cloud/) - Self-service clusters operated by Authzed
+- [AuthZed Dedicated](https://authzed.com/pricing) - Private, isolated clusters operated by the experts at Authzed
 
 ## Testing
 
