@@ -49,6 +49,7 @@ _Posts written about SpiceDB usage and development_
 - [Modeling Google Drive in SpiceDB](https://www.mbilski.com/posts/fine-grained-authorization-made-easy-modeling-google-drive-in-spicedb)
 - [KPMG: Getting Started with SpiceDB in .NET](https://medium.com/kpmg-uk-engineering/getting-started-with-spicedb-in-net-741e353a4d83)
 - [Spicing up the Authorization Layer at Quizizz](https://eng.quizizz.com/p/spicing-up-the-authorization-layer)
+- [SpiceDB HRBAC: A Practical Implementation](https://dev.to/irby/spicedb-hrbac-a-practical-implementation-1lbd)
 
 ### 日本語
 
