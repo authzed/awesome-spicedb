@@ -45,7 +45,7 @@ _Posts written about SpiceDB usage and development_
 
 - [Authzed's Official Blog](https://authzed.com/blog)
 - [ABAC on SpiceDB: Enabling Netflix’s Complex Identity Types](https://netflixtechblog.com/abac-on-spicedb-enabling-netflixs-complex-identity-types-c118f374fa89)
-- Abhishek Koserwal's SpiceDB Setup Guide: [Part 1](https://akoserwal.medium.com/a-comprehensive-guide-to-setting-up-spicedb-with-postgresql-and-a-monitoring-stack-b250f31d7775), [Part 2](https://akoserwal.medium.com/part-2-a-comprehensive-guide-to-setting-up-spicedb-operator-with-postgresql-and-a-monitoring-stack-3b3f92e20d77)
+- Abhishek Koserwal's SpiceDB Setup Guide: [Part 1](https://akoserwal.medium.com/a-comprehensive-guide-to-setting-up-spicedb-with-postgresql-and-a-monitoring-stack-b250f31d7775), [Part 2](https://akoserwal.medium.com/part-2-a-comprehensive-guide-to-setting-up-spicedb-operator-with-postgresql-and-a-monitoring-stack-3b3f92e20d77), [Performance vs. Accuracy Trade-offs](https://medium.com/@akoserwal/spicedb-consistency-a-deep-dive-into-performance-vs-accuracy-trade-offs-76e2fb2f29b9)
 - [Modeling Google Drive in SpiceDB](https://www.mbilski.com/posts/fine-grained-authorization-made-easy-modeling-google-drive-in-spicedb)
 - [KPMG: Getting Started with SpiceDB in .NET](https://medium.com/kpmg-uk-engineering/getting-started-with-spicedb-in-net-741e353a4d83)
 - [Spicing up the Authorization Layer at Quizizz](https://eng.quizizz.com/p/spicing-up-the-authorization-layer)
@@ -133,6 +133,7 @@ _Tools that help enhance the experience of using SpiceDB_
 - [thomasdarimont/custom-opa-spicedb](https://github.com/thomasdarimont/custom-opa-spicedb) - Third-party build of Open Policy Agent with a plugin to query SpiceDB
 - [umbrellaassociates/opa-spicedb](https://github.com/umbrellaassociates/opa-spicedb) - Third-party build of Open Policy Agent with a plugin to query SpiceDB
 - [mejaz/spicedb-ui](https://github.com/mejaz/spicedb-ui) - Third-party SpiceDB web interface that allows inspection and management of a running SpiceDB instance
+- [SpiceDBLens](https://www.spicedblens.com/) - A free visual SpiceDB explorer with schema design, permission testing, and real-time debugging. Works on macOS, Windows, and Linux.
 
 ## Examples
 
@@ -174,3 +175,4 @@ _Tools and libraries used to test or validate usage of SpiceDB_
 - [authzed/action-spicedb-validate](https://github.com/authzed/action-spicedb-validate) - GitHub Action for validating your SpiceDB schema
 - [authzed/action-spicedb](https://github.com/authzed/action-spicedb) - GitHub Action for integration testing your application with SpiceDB
 - [northone-inc/local-spicedb](https://github.com/northone-inc/local-spicedb) - Node library for running SpiceDB ephermally for testing
+- [SpiceDB Testcontainer](https://testcontainers.com/modules/spicedb/) - Throwaway, lightweight instances of anything that SpiceDB Go library in a Docker container for testing.
