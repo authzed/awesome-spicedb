@@ -175,4 +175,4 @@ _Tools and libraries used to test or validate usage of SpiceDB_
 - [authzed/action-spicedb-validate](https://github.com/authzed/action-spicedb-validate) - GitHub Action for validating your SpiceDB schema
 - [authzed/action-spicedb](https://github.com/authzed/action-spicedb) - GitHub Action for integration testing your application with SpiceDB
 - [northone-inc/local-spicedb](https://github.com/northone-inc/local-spicedb) - Node library for running SpiceDB ephermally for testing
-- [SpiceDB Testcontainer](https://testcontainers.com/modules/spicedb/) - Throwaway, lightweight instances of anything that SpiceDB Go library in a Docker container for testing.
+- [SpiceDB Testcontainer](https://testcontainers.com/modules/spicedb/) - Throwaway, lightweight instances of the SpiceDB Go library in a Docker container for testing.
