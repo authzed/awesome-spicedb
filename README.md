@@ -127,7 +127,6 @@ _Tools that help enhance the experience of using SpiceDB_
 - [spicedb-operator-libsonnet](https://github.com/jsonnet-libs/spicedb-operator-libsonnet) - Jsonnet library for the SpiceDB Operator
 - [bushelpowered/spicedb-operator-chart](https://github.com/bushelpowered/spicedb-operator-chart) - Helm chart to install the SpiceDB Operator
 - [mleonidas/tree-sitter-authzed](https://github.com/mleonidas/tree-sitter-authzed) - Neovim tree-sitter grammar and syntax for SpiceDB schemas
-- [nhedger/vscode-spicedb](https://github.com/nhedger/vscode-spicedb) - Third-party VSCode extension
 - [chiperific/vscode_authzed_syntax](https://github.com/chiperific/vscode_authzed_syntax) - Third-party VSCode syntax highlighting
 - [dguhr/keycloak-spicedb-eventlistener](https://github.com/DGuhr/keycloak-spicedb-eventlistener) - Syncs changes to [Keycloak](https://www.keycloak.org) users and groups to SpiceDB
 - [thomasdarimont/custom-opa-spicedb](https://github.com/thomasdarimont/custom-opa-spicedb) - Third-party build of Open Policy Agent with a plugin to query SpiceDB
