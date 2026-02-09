@@ -132,6 +132,7 @@ _Tools that help enhance the experience of using SpiceDB_
 - [thomasdarimont/custom-opa-spicedb](https://github.com/thomasdarimont/custom-opa-spicedb) - Third-party build of Open Policy Agent with a plugin to query SpiceDB
 - [umbrellaassociates/opa-spicedb](https://github.com/umbrellaassociates/opa-spicedb) - Third-party build of Open Policy Agent with a plugin to query SpiceDB
 - [mejaz/spicedb-ui](https://github.com/mejaz/spicedb-ui) - Third-party SpiceDB web interface that allows inspection and management of a running SpiceDB instance
+- [jeanlouhallee/intellij-spicedb-plugin](https://github.com/jeanlouhallee/intellij-spicedb-plugin) - Community IntelliJ plugin for SpiceDB schema files
 
 ## Examples
 
