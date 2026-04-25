@@ -36,6 +36,7 @@ Looking to contribute? See [CONTRIBUTING.md].
     - [Third-party Integrations](#third-party-integrations)
   - [Services](#services)
   - [Testing](#testing)
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes management console with RBAC enforcement; visualize and manage Kubernetes RBAC policies across multiple clusters and integrate with authorization systems like SpiceDB.
 
 ## Blog Posts
 
