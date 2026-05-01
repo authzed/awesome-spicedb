@@ -78,7 +78,7 @@ _Clients for interacting with SpiceDB_
 ### Third-party Libraries
 
 - Golang
-  - [danhtran94/authzed-codegen](https://github.com/danhtran94/authzed-codegen) - Type-Safe stubs code generator for your AuthZed schemas
+  - [oitnes/authzed-codegen](https://github.com/oitnes/authzed-codegen) - Type-Safe code generator for AuthZed schemas with support for namespaced definitions, additional lookup methods, and wildcard subjects
 - .NET
   - [jalexsocial/spicedb](https://github.com/JalexSocial/SpiceDb) - gRPC client library in C#
 - BEAM
@@ -133,6 +133,10 @@ _Tools that help enhance the experience of using SpiceDB_
 - [umbrellaassociates/opa-spicedb](https://github.com/umbrellaassociates/opa-spicedb) - Third-party build of Open Policy Agent with a plugin to query SpiceDB
 - [mejaz/spicedb-ui](https://github.com/mejaz/spicedb-ui) - Third-party SpiceDB web interface that allows inspection and management of a running SpiceDB instance
 - [jeanlouhallee/intellij-spicedb-plugin](https://github.com/jeanlouhallee/intellij-spicedb-plugin) - Community IntelliJ plugin for SpiceDB schema files
+
+### Agent skills
+
+- [oitnes/authzed-skills](https://github.com/oitnes/authzed-skills) - Skills plugin for Claude code that performs static analysis on SpiceDB schemas, identifying operator-precedence issues, type checking gaps, unreachable intersections, and test coverage gaps
 
 ## Examples
 
