@@ -134,6 +134,10 @@ _Tools that help enhance the experience of using SpiceDB_
 - [mejaz/spicedb-ui](https://github.com/mejaz/spicedb-ui) - Third-party SpiceDB web interface that allows inspection and management of a running SpiceDB instance
 - [jeanlouhallee/intellij-spicedb-plugin](https://github.com/jeanlouhallee/intellij-spicedb-plugin) - Community IntelliJ plugin for SpiceDB schema files
 
+### Agent skills
+
+- [oitnes/authzed-skills](https://github.com/oitnes/authzed-skills) - Skills plugin for Claude code that performs static analysis on SpiceDB schemas, identifying operator-precedence issues, type checking gaps, unreachable intersections, and test coverage gaps
+
 ## Examples
 
 _Example usage of SpiceDB and the tools in its ecosystem_
