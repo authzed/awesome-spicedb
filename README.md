@@ -100,6 +100,7 @@ _Clients for interacting with SpiceDB_
   - [bitskico/authzed-rs](https://github.com/BitskiCo/authzed-rs) - gRPC client library in Rust
   - [structionsite/spicedb-client-rust](https://github.com/StructionSite/spicedb-client-rust) - gRPC client library in Rust
   - [Lur1an/spicedb-rust](https://github.com/Lur1an/spicedb-rust) - Opinionated SpiceDB gRPC client library in Rust
+  - [levish0/spicedb-rs-client](https://github.com/levish0/spicedb-rs-client) - gRPC client library in Rust
 
 ## Communities
 
